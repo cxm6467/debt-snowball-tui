@@ -14,17 +14,17 @@ A terminal user interface for calculating and tracking debt snowball payments. W
 ## Installation
 
 ```bash
-pip install -e .
+uv sync
 ```
 
 ## Usage
 
 ```bash
 # Run with default data file (data/debts_filled.csv)
-debt-snowball
+uv run debt-snowball
 
 # Run with a specific CSV file
-debt-snowball path/to/your/debts.csv
+uv run debt-snowball path/to/your/debts.csv
 ```
 
 ### CSV Format
