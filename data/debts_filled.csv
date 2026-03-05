@@ -1,0 +1,11 @@
+name,starting_balance,current_balance,apr,minimum_payment
+Wells Fargo,4600.99,4600.99,28.49,150
+Chase,3503.47,3503.47,18.49,80
+Best Buy,460.82,460.82,28.74,29
+Paypal,396,396,20,10
+Apple,1303.17,1303.17,25.49,30
+Klarna,168.39,168.39,18,82.09
+Affirm,2080.9,2080.9,18,637.57
+Car Loan,17220,17220,7.74,392
+Federal Student,125044.85,125044.85,5.63,245
+Private Student,65603.93,65603.93,6.02,1509.07
